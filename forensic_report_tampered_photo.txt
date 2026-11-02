@@ -1,0 +1,39 @@
+DIGITAL IMAGE FORENSIC REPORT
+Generated on: 2026-10-22 09:22:40
+
+=== 1. FILE INFORMATION ===
+File name                   : tampered_photo.jpg
+Size (bytes)                : 662388
+Last modified               : 2026-10-22 09:21:25
+Last accessed               : 2026-10-22 09:22:19
+
+=== 2. IMAGE PROPERTIES ===
+Format                      : JPEG
+Mode                        : RGB
+Dimensions                  : 1932 x 2576
+
+=== 3. HASH VALUES (integrity) ===
+MD5                         : 7134ba3818e64d89c94e35ae9b56ee1d
+SHA-1                       : b4ea6061bc35dd7f0ca41884deb26b8b9c6fbb46
+SHA-256                     : d50a2dcffb54501c37c50a6f505e7be42945caaf67ba063640a6c154044b5e22
+
+=== 4. FILE SIGNATURE CHECK ===
+Extension says              : JPEG
+Actual signature            : JPEG
+Result                      : MATCH
+
+=== 5. HIDDEN DATA CHECK ===
+Result                      : No data appended after JPEG end marker
+
+=== 6. EXIF METADATA ===
+Software                    : Adobe Photoshop 25.0
+DateTime                    : 2026:10:22 09:30:00
+Note                        : Software tag present - image may have been edited/processed
+
+=== 7. ERROR LEVEL ANALYSIS ===
+Max error difference        : 12
+Average block error         : 0.069
+Suspicious blocks           : 119 of 4800 (2.48%)
+Tampering suspicion         : MEDIUM - localised regions differ (possible paste/clone); inspect the ELA image
+
+ELA image saved as: ela_tampered_photo.png

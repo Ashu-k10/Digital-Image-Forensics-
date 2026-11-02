@@ -1,0 +1,37 @@
+DIGITAL IMAGE FORENSIC REPORT
+Generated on: 2026-11-02 16:11:11
+
+=== 1. FILE INFORMATION ===
+File name                   : photo.jpg
+Size (bytes)                : 864440
+Last modified               : 2026-10-22 08:55:15
+Last accessed               : 2026-11-02 16:06:23
+
+=== 2. IMAGE PROPERTIES ===
+Format                      : JPEG
+Mode                        : RGB
+Dimensions                  : 3024 x 4032
+
+=== 3. HASH VALUES (integrity) ===
+MD5                         : c60a93f655623485276945958eaf3099
+SHA-1                       : 775a22417c71671cc2cace9167befc7f78bf8793
+SHA-256                     : 37111cc7ef2cdbe0ef60d91e066c75377bb54b7612136119855c1624bc8a74ab
+
+=== 4. FILE SIGNATURE CHECK ===
+Extension says              : JPEG
+Actual signature            : JPEG
+Result                      : MATCH
+
+=== 5. HIDDEN DATA CHECK ===
+Result                      : No data appended after JPEG end marker
+
+=== 6. EXIF METADATA ===
+EXIF                        : No EXIF metadata found (stripped, screenshot, or edited/re-saved image)
+
+=== 7. ERROR LEVEL ANALYSIS ===
+Max error difference        : 6
+Average block error         : 0.146
+Suspicious blocks           : 37 of 11844 (0.31%)
+Tampering suspicion         : LOW - uniform error levels; no obvious tampering
+
+ELA image saved as: ela_photo.png

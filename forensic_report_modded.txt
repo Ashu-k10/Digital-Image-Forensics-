@@ -1,0 +1,37 @@
+DIGITAL IMAGE FORENSIC REPORT
+Generated on: 2026-10-22 09:19:01
+
+=== 1. FILE INFORMATION ===
+File name                   : modded.jpg
+Size (bytes)                : 908983
+Last modified               : 2026-10-22 09:08:33
+Last accessed               : 2026-10-22 09:09:52
+
+=== 2. IMAGE PROPERTIES ===
+Format                      : JPEG
+Mode                        : RGB
+Dimensions                  : 3024 x 4032
+
+=== 3. HASH VALUES (integrity) ===
+MD5                         : 4c0ce3a1723eb94de40821259feedd5f
+SHA-1                       : b462aac41deac7847919f8ed4dcbe6883294c843
+SHA-256                     : 9e04838f2d721859e1bcf5a734118f0ba358c2ca1bb5517d65ee4798e26f11dd
+
+=== 4. FILE SIGNATURE CHECK ===
+Extension says              : JPEG
+Actual signature            : JPEG
+Result                      : MATCH
+
+=== 5. HIDDEN DATA CHECK ===
+Result                      : No data appended after JPEG end marker
+
+=== 6. EXIF METADATA ===
+EXIF                        : No EXIF metadata found (stripped, screenshot, or edited/re-saved image)
+
+=== 7. ERROR LEVEL ANALYSIS ===
+Max error difference        : 36
+Mean ELA brightness         : 1.24
+Pixels with high error (%)  : 0.0
+Tampering suspicion         : LOW - uniform error levels; no obvious tampering
+
+ELA image saved as: ela_modded.png
